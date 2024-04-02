@@ -3,9 +3,7 @@
 ![](https://img.shields.io/badge/build-passing-brightgreen)
 ![](https://img.shields.io/badge/ASM-9.4-blue)
 ![](https://img.shields.io/badge/Java-8-red)
-![](https://img.shields.io/badge/Line-6176-yellow)
-
-**注意：本项目是一个学习项目，可能不会长期维护，作者精力有限，欢迎大佬们二次开发**
+![](https://img.shields.io/badge/Line-5930-yellow)
 
 一个Java自动代码审计工具，尤其针对SpringBoot框架，也可自行改造以适配其他情况
 
@@ -111,12 +109,6 @@ public static void testRCE() {
     System.out.println(results.size());
 }
 ```
-
-## Graphviz
-
-指定`Controller`类名和`Mapping`的方法名，以及分析的参数索引，即可画图
-
-![](images/00013.png)
 
 ## 常见问题
 
